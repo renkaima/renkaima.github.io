@@ -17,7 +17,7 @@ title: "Service and Leadership"
 ### Program Committee Member
 - ACM Conference on Supporting Group Work (GROUP), 2027
 - ACM Conference on Human Factors in Computing Systems (CHI), 2026
-- ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW), 2026
+- ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW), 2025 (x2), 2026
 - ACM CHI Late-Breaking Work (LBW), 2023, 2024, 2025
 
 ### Journal Reviewer
