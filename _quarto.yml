@@ -9,6 +9,7 @@ author-meta: "Dr. Renkai Ma"
 website:
   title: "Renkai Ma"
   description: "Renkai Ma's website"
+  favicon: files/images/icon.png  # <-- Add this line
  
   navbar:
     background: light
