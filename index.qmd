@@ -31,7 +31,10 @@ about:
     - text: "{{< ai researchgate >}} ResearchGate"
       href: "https://www.researchgate.net/profile/Renkai-Ma-2"
       target: _blank
-
+    - icon: globe
+      text: "UC Profile"
+      href: https://researchdirectory.uc.edu/p/mark
+      target: _blank
 ---
 
 :::{#hero-heading}
