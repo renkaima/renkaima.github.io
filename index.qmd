@@ -31,7 +31,7 @@ about:
       target: _blank
     - icon: file-pdf
       text: CV
-      href: CV.pdf # Make sure CV.pdf is in your main project folder
+      href: cv_renkai.pdf # Make sure CV.pdf is in your main project folder
       target: _blank
 
 ---
