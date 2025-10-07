@@ -1,6 +1,5 @@
 ---
-title: "Renkai Ma, Ph.D."
-description-meta: "An HCI Researcher focusing on social computing and trust & safety"
+title: "Renkai Ma"
 image: "files/images/avatar.jpeg"
 page-navigation: false
 toc: false
@@ -29,9 +28,8 @@ about:
     - text: "{{< ai researchgate >}} ResearchGate"
       href: "https://www.researchgate.net/profile/Renkai-Ma-2"
       target: _blank
-    - icon: file-pdf
-      text: CV
-      href: cv_renkai.pdf # Make sure CV.pdf is in your main project folder
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: "https://www.researchgate.net/profile/Renkai-Ma-2"
       target: _blank
 
 ---
@@ -42,10 +40,24 @@ Hi! I am an Assistant Professor at the University of Cincinnati's [School of Inf
 
 **🔬My research: Trust and safety** (T&S) enacts the practices, policies, and technological implementations that create secure and trustworthy environments to shield users from harms, such as scams, harassment, and inappropriate content when using digital technolgies (e.g., GenAI, social media). As an interdisciplinary scholar, I use **a human-centered approach to address three areas of T&S**:
 
-![](files/images/myresearchmaps.png){fig-align="center" width="300px"}
+::: {.columns}
+
+::: {.column width="45%"}
+### Research Interests
+- Human-Computer Interaction
+- Social Computing
+- Creator/Content Moderation
+- Content Creation
+- Youth Online Safety
+:::
+
+::: {.column width="55%"}
+![](files/images/myresearchmaps.png){width="400px"}
+:::
+
+:::
 
 ## Experience
-
 ::: {.table .experience-table tbl-colwidths="[8, 92]"}
 | | |
 | :-- | :-- |
