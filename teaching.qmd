@@ -1,67 +1,63 @@
 ---
 title: "Teaching"
-subtitle: "I teach."
+subtitle: "Courses I have instructed or supported as a teaching assistant."
 title-block-banner: false
 ---
 
+## ![UC Logo](files/images/UC.svg){width="40px"} University of Cincinnati
 
-## Class 1
+### Instructor
 
-::: {.grid}
+**IT7030C: Games for Learning and Simulation**
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder1.jpg)
+*Instructor, Fall 2025 (10 students)*
 
-:::
+---
 
-::: {.g-col-12 .g-col-md-10}
+**IT4080C: Network Game Development**
 
-[Fall 2024](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+*Instructor, Fall 2025 (17 students)*
 
-Class 1 introduction.
+---
 
-:::
+## ![Penn State Logo](files/images/penn-state-university-2.svg){width="40px"} Pennsylvania State University
 
-:::
+### Teaching Assistant
 
+**IST 597: User Experience Evaluation**
 
-## Class 2
+*Teaching Assistant, Spring 2024 (18 students)*
 
-::: {.grid}
+> 🏆 **Runner-up, Graduate Student Award for Excellence in Teaching Support**
+>
+> "Renkai is an outstanding teaching assistant, who has demonstrated effectiveness in developing lecture materials and providing guest lectures based on Renkai’s industry experience, which were very well received."
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder2.JPG)
+---
 
-:::
+**IST 331: Foundations of Human-Centered Design**
 
-::: {.g-col-12 .g-col-md-10}
+*Teaching Assistant, Spring 2024 (63 students)*
 
-[Spring 2025](https://www.google.com), &nbsp; [Fall 2023](https://www.google.com)
+---
 
-Class 2 introduction.
+**HCDD 364W: Methods for Studying Users**
 
-:::
+*Teaching Assistant, Fall 2023 (25 students)*
 
-:::
+---
 
+**IST 256: Programming for the Web**
 
-## Class 3
+*Teaching Assistant, Fall 2023 (42 students)*
 
-::: {.grid}
+---
 
-::: {.g-col-12 .g-col-md-2}
-![](files/images/placeholder3.JPG)
+**IST 140: Introduction to Application Programming (Java)**
 
-:::
+*Teaching Assistant, Fall 2020 (53 students)*
 
-::: {.g-col-12 .g-col-md-10}
+---
 
-[Spring 2025](https://www.google.com), &nbsp; [Spring 2024](https://www.google.com)
+**IST 220: Networking and Telecommunications**
 
-Class 3 introduction. 
-
-:::
-
-:::
-
-
+*Teaching Assistant, Fall 2020 (32 students)*

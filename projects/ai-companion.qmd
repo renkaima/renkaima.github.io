@@ -1,0 +1,14 @@
+---
+title: "Youth with AI Companions"
+author: "Renkai Ma"
+date: "2025-05-01"
+description: "A project investigating the risks and experiences of youth as they form relationships with AI companions."
+image: "images/projects/ai-companion-placeholder.png"
+categories: [AI companions, youth online safety, generative AI]
+---
+
+Millions of users are now integrating AI companions into their daily lives. Unlike conventional, rule-based AI conversational agents, these companions offer conversations designed to feel personal and meaningful. AI companions like [Character.AI (C.AI)](https://character.ai/) exemplify this trend, but a new category of risk is emerging as millions of teens engage with companions designed to form deep social and emotional relationships. While youth can perceive them as supportive friends, they can also introduce severe risks, and the regulatory landscape remains unsettled.
+
+Our foundational work in this area analyzed user-reported risks across seven major LLM chatbots, finding that risks are highly platform-specific and revealing significant gaps between lab-based studies and the problems users encounter in the real world ([read the preprint on arXiv](https://arxiv.org/abs/2509.08912)). This early research highlights the need for more user-centered approaches to AI safety.
+
+Building on this, our current work focuses on understanding the nuanced ways youth experience AI companions.

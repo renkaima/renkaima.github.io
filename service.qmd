@@ -1,0 +1,41 @@
+---
+title: "Service and Leadership"
+---
+
+## Conference Service
+- **Paper Session Chair**, ACM CSCW '24, San José, Costa Rica
+- **Workshop Organizer**, Social Media Moderation Summit 2024, New Jersey Institute of Technology, NJ
+- **Workshop Discussion Facilitator**, Midwest Security Workshop (MSW 11), 2025, Indiana University Bloomington, USA
+- **Student Volunteer**, ACM CSCW '23, Indianapolis, USA
+- **Student Volunteer**, ACM CHI '22, New Orleans, USA
+
+---
+
+## Professional Reviewing
+*Served as a peer reviewer over 130 times and on 8 conference program committees.*
+
+### Program Committee Member
+- ACM Conference on Supporting Group Work (GROUP), 2027
+- ACM Conference on Human Factors in Computing Systems (CHI), 2026
+- ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW), 2026
+- ACM CHI Late-Breaking Work (LBW), 2023, 2024, 2025
+
+### Journal Reviewer
+- Journal of Experimental Child Psychology
+- Telecommunications Policy
+- Information, Communication and Society
+
+### Conference Peer Reviewer
+- ACM CHI (41 reviews), 2022–26
+- ACM CSCW (23 reviews), 2021–26
+- ACM CHI Play (5 reviews), 2022–25
+- ACM Designing Interactive Systems (DIS) (3 reviews), 2023–24
+- Chinese CHI, 2023
+- COMPSAC, 2022
+- HICSS (2 reviews), 2020
+
+---
+
+## Awards and Recognitions
+- **Special Recognition for Outstanding Review (x8)**, ACM CHI, 2022–25
+- **Special Recognition for Outstanding Review (x8)**, ACM CSCW, 2021–26

@@ -3,83 +3,73 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "Renkai Ma's personal academic website"
+author-meta: "Dr. Renkai Ma"
 
 website:
-  title: "Quarto Academic"
-  image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  title: "Renkai Ma"
+  description: "Renkai Ma's website"
  
   navbar:
-    background: light  # You can change the background color here
+    background: light
 
-    left:   # You can comment out all navigation items here if you just like to keep the index page only
-#      - text: Home
-#        href: index.qmd
+    left:
       - text: About
-        menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
-      - text: Research
-        menu:
-          - text: List of Publications
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
+        href: index.qmd
+#      - text: About # This is an example of a dropdown menu
+#        menu:
+#          - text: News
+#            href: posts.qmd#category=news
+#          - text: Events
+#            href: posts.qmd#category=event      
+#          - text: Contact
+#            href: contact.qmd             
+      - text: Publications
+        href: publications.qmd
+      - text: Projects
+        href: projects.qmd
+#        menu:
+#          - text: List of Publications
+#            href: publications.qmd
+#          - text: Selected Papers
+#            href: posts.qmd#category=paper
+#          - text: Grants
+#            href: projects.qmd                                
+      - text: Teaching
         href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group   # Comment the Group part out to remove the Group page
-        href: people.qmd
+      - text: Service
+        href: service.qmd
+#     - text: Outreach
+#        menu:        
+#        - text: Presentations
+#          href: posts.qmd#category=presentation                   
+#      - text: Group
+#        href: people.qmd
 
-    right: 
-      - text: CV
-        href: files/nsf-biosketch.pdf
-      - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
-        target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
+#  right: 
+#      - text: CV
+#        href: CV.pdf
+#      - text: "{{< fa brands twitter >}}" # Changed from bluesky to twitter
+#        href: https://twitter.com/renkai_ma
+#        target: _blank 
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
-    right:  
-      - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
-        target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+    left: "[Renkai Ma](https://github.com/renkaima) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: " "
+    right:  " "
+    
   
-  search:
-    location: navbar
-    type: textbox
+  #search:
+  #  location: navbar
+  #  type: textbox
   
-  reader-mode: true
+  reader-mode: false
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+  repo-url: https://github.com/renkaima/renkaima.github.io
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
@@ -87,13 +77,13 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://renkaima.github.io"
   
   google-analytics:
-    tracking-id: ""  # Please delete or replace with your own tracking ID
+    tracking-id: ""
     anonymize-ip: true 
 
-bibliography: references.bib  # Add references.bib to the root folder to enable the bibliography function
+bibliography: references.bib
 
 format:
   html:
@@ -107,7 +97,6 @@ format:
     fig-align: center
     link-external-icon: false
     link-external-newwindow: true
-    email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+    # IMPORTANT: Changed this filter to your own site URL
+    link-external-filter: '^(?:http:|https:)\/\/renkaima\.github\.io'
     include-in-header: "files/includes/_academic.qmd"
-

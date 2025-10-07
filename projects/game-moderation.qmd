@@ -1,0 +1,12 @@
+---
+title: "Game Community Moderation"
+author: "Yubo Kou, Renkai Ma"
+date: "2021-03-27"
+description: "A project I facilitate with the PI, Dr. Yubo Kou to understand how esports gamers experience punishments issued by moderation systems, how they reason about moderation mechanisms, and how they adjust their future behaviors."
+image: "images/projects/game-moderation-placeholder.png"
+categories: [moderation, gaming, online communities]
+---
+
+> This is a study of human implications of online moderation systems that deal with disruptive online behaviors, such as offensive language and hate speech, by issuing penalties such as content removal or account suspension to users they determine to be disruptive. These moderation systems usually fail to provide punished users enough support in terms of explaining why they are punished and suggesting how they can improve. Such severe limitations in fairness, accountability, and transparency lead to enormous challenges to online moderation and community wellbeing.
+
+For more details, please see Dr. Yubo Kou's [NSF funding page](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2006854&HistoricalAwards=false).

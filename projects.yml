@@ -1,13 +1,23 @@
+- title: "[Youth with AI Companions](projects/ai-companion.qmd)"
+  description: "A project investigating the risks and experiences of youth as they form relationships with AI companion chatbots."
+  started: "2025"
+  ended: "Ongoing"
+  image: "files/images/chatbot.png"
 
-    - path: https://www.nsf.gov/ 
-      image: https://nsf-gov-resources.nsf.gov/styles/featured_content_tablet/s3/2023-10/NSF_Official_logo_Med_Res_600ppi_rectangle.png
-      title: "Exploring "
-      author: Academic Website
-      subtitle: "Funder"
-      description: "The goal of this project is to investigate ."
-      started: "2024"
-      ended: "2025"
-      funding: "$0"
-#      date: "2022-10-26"
-#      categories: [] 
+- title: "[Child Safety Meets Creator Moderation](projects/child-safety.qmd)"
+  description: "A project I lead to investigate how creators can collaborate with other stakeholders for child safety protection in (creator) moderation context."
+  started: "2023"
+  ended: "2025"
+  image: "files/images/project3.png"
 
+- title: "[Game Community Moderation](projects/game-moderation.qmd)"
+  description: "A project I facilitate with Dr. Yubo Kou to understand how esports gamers experience punishments issued by moderation systems and reason about moderation mechanisms."
+  started: "2023"
+  ended: "2024"
+  image: "files/images/project2.png"
+
+- title: "[Creator Moderation](projects/creator-moderation.qmd)"
+  description: "A project I lead to investigate how creators like YouTubers or influencers on Instagram or TikTok experience creator moderation."
+  started: "2020"
+  ended: "2024"
+  image: "files/images/project1.gif"

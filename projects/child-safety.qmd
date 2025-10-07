@@ -1,0 +1,14 @@
+---
+title: "Child Safety Meets Creator Moderation"
+author: "Renkai Ma"
+date: "2023-10-20"
+description: "A project I lead to investigate how creators can collaborate with other stakeholders for child safety protection in (creator) moderation context."
+image: "images/projects/child-safety-placeholder.png"
+categories: [child safety, moderation, online platforms]
+---
+
+As online platforms evolve, moderation remains paramount, not just for filtering inappropriate content but also to prevent children from being exposed to targeted ads and unjust data tracking. Historically, research efforts have concentrated on general child safety with a limited exploration into the direct implications for creators and audiences, especially concerning regulations like the **Children’s Online Privacy Protection Act (COPPA)**. Our first exploratory study on YouTube’s “made for kids” (MFK) classification, published in **[DIS '24](https://doi.org/10.1145/3643834.3661565)**, brought to light the challenges creators and audiences face in protecting children’s data privacy, revealing how intertwined classification systems can hinder the effectiveness of content moderation.
+
+Building on this, we conducted a survey study to probe parental mediation in children’s online safety across platforms. Published in **[CHI '25](https://doi.org/10.1145/3706598.3713422)**, this work juxtaposes parents’ definitions of harmful content against platform policies. We found that parents perform a complex benefit-harm analysis, and we proposed strategies for enhancing parents’ self-efficacy and platform-parent collaboration.
+
+The next phase of this project involves participatory design workshops to support creators in enhancing child safety. Leveraging insights from our prior study on cross-platform creators published in **[CHI '23](https://doi.org/10.1145/3544548.3581106)**, this ongoing study gathers content creators, moderators, policy experts, and parents. The aim is clear: ensure content safety for children, support creators without breaching policies, and understand how best to implement these moderation policies. Our work underscores the nuanced contextualization of online child safety in creator moderation and will present pivotal policy and design recommendations.

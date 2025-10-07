@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/images/placeholder4.JPG"
+title: "Renkai Ma, Ph.D."
+description-meta: "An HCI Researcher focusing on social computing and trust & safety"
+image: "files/images/avatar.jpeg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -10,97 +10,49 @@ page-layout: full
 about:
   id: hero-heading
   template: trestles
-  image-width: 70%
+  image-width: 35%
   links:
-    - icon: sun
-      text: Lab
-      href: https://www.github.com
-      target: _blank
-    - icon: globe
-      text: Uprofile
-      href: https://baruch.cuny.edu
-      target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:renkai.ma@uc.edu # I used your UC email here
+    - icon: twitter
+      text: X/Twitter
+      href: https://twitter.com/renkai_ma
+      target: _blank
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-      target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
-    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
+      href: https://www.linkedin.com/in/rkma/
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: "https://scholar.google.com/citations?user=J-lruG8AAAAJ&hl=en&oi=ao"
       target: _blank
-#    - text: "{{< ai researchgate >}} Research Gate"
-#      href: https://www.researchgate.net
-#      target: _blank
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: "https://www.researchgate.net/profile/Renkai-Ma-2"
+      target: _blank
+    - icon: file-pdf
+      text: CV
+      href: CV.pdf # Make sure CV.pdf is in your main project folder
+      target: _blank
 
-listing:   # Comment the listing section and delete corresponding lines in the index.qmd file to remove the recent posts
-  - id: recent-posts
-    contents: 
-      - posts
-      - posts/post-links.yml
-    exclude:
-      title: ""
-    type: grid
-    max-items: 3
-#    image-height: 150px
-    page-size: 3 #set same as max-times to remove the page number setting
-    fields: [image, date, title, subtitle]
-    max-description-length: 75
-    sort: 
-      - "date desc"
-      - "title asc"
 ---
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
+Hi! I am an Assistant Professor at the University of Cincinnati's [School of Information Technology](https://cech.uc.edu/schools/it.html). I was a postdoctoral scholar at [Vanderbilt University's Department of Computer Science](https://engineering.vanderbilt.edu/departments/computer-science/), advised by [Dr. Pamela J. Wisniewski](https://scholar.google.com/citations?user=3JZB10QAAAAJ&hl=en) in 2025. I completed my Ph.D. in Informatics (Human-Computer Interaction) at Pennsylvania State University's [College of Information Sciences and Technology](https://ist.psu.edu/) in 2024, advised by [Dr. Yubo Kou](https://scholar.google.com/citations?user=mCz8znkAAAAJ&hl=en).
 
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
+**🔬My research: Trust and safety** (T&S) enacts the practices, policies, and technological implementations that create secure and trustworthy environments to shield users from harms, such as scams, harassment, and inappropriate content when using digital technolgies (e.g., GenAI, social media). As an interdisciplinary scholar, I use **a human-centered approach to address three areas of T&S**:
 
-1. **Star** this repository to bookmark it for future reference.  
-1. **Fork** this repository and rename it to `YourGitHubUserName.github.io`.  
-1. **Update** the `_quarto.yml` file to configure your site’s basic settings.  
-1. **Add or edit content** in the following files and folders:
-   - `/posts/` – posts about publications, news, events  
-   - `teaching.qmd` – teaching information  
-   - `projects.yml` – research or other projects  
-   - `people.qmd` and `/people/` – team or collaborators  
-   - `/files/` - profiles, images, pdfs, and includes 
-1. [**Render and preview**](https://quarto.org/docs/websites/) your site locally.  
-1. [**Publish**](https://quarto.org/docs/publishing/github-pages.html) your site using GitHub Pages (make sure [configuring](https://quarto.org/docs/publishing/images/gh-pages-docs-dir.png) your GitHub repository to publish from the `docs` directory, not the `root` folder). 
-1. **Refine and polish** your content and design as needed.  
-1. ✅ Enjoy your new website!
+![](files/images/myresearchmaps.png){fig-align="center" width="300px"}
 
 ## Experience
 
-- Researcher, Univerisity
-
-## Education
-
-- PhD, Univerisity
-
+::: {.table .experience-table tbl-colwidths="[8, 92]"}
+| | |
+| :-- | :-- |
+| ![UC Logo](files/images/UC.svg){width=50px} | **Assistant Professor**<br>University of Cincinnati's School of Information Technology<br>*August 2025 – Present · Cincinnati* |
+| ![Vanderbilt Logo](files/images/Metallic.svg){width=50px} | **Postdoctoral Scholar**<br>Vanderbilt University's Department of Computer Science<br>*October 2024 – July 2025 · Tennessee* |
+| ![Penn State Logo](files/images/penn-state-university-2.svg){width=50px} | **Doctoral Researcher**<br>Pennsylvania State University's College of Information Sciences and Technology<br>*August 2020 – August 2024 · Pennsylvania* |
+| ![Meta Logo](files/images/meta-1.svg){width=50px} | **User Experience (UX) Research Intern**<br>Meta/WhatsApp<br>*May 2023 – August 2023 · California* |
+| ![SiriusXM Logo](files/images/SIRI_BIG.svg){width=70px} | **UX Research Intern**<br>SiriusXM/Pandora<br>*May 2022 – August 2022 · Remote* |
+| ![Syracuse University Logo](files/images/Syracuse_Orange_logo.svg){width=30px} | **Research Assistant**<br>Syracuse University<br>*March 2019 – April 2020 · Syracuse* |
 :::
-
-
-<!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
-## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
-
-:::{#recent-posts}
-:::
-
-<p align="right">[All Posts »](/posts.qmd)</p>
