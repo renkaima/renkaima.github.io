@@ -4,7 +4,7 @@ title: "Service and Leadership"
 
 ## Conference Service
 - **Paper Session Chair**, ACM CSCW '24, San José, Costa Rica
-- **Workshop Organizer**, Social Media Moderation Summit 2024, New Jersey Institute of Technology, NJ
+- **Workshop Lead**, Social Media Moderation Summit 2024, New Jersey Institute of Technology, NJ
 - **Workshop Discussion Facilitator**, Midwest Security Workshop (MSW 11), 2025, Indiana University Bloomington, USA
 - **Student Volunteer**, ACM CSCW '23, Indianapolis, USA
 - **Student Volunteer**, ACM CHI '22, New Orleans, USA
