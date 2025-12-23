@@ -5,13 +5,17 @@ description-meta: "Renkai Ma's publications, including journal articles and conf
 
 {{< include /files/includes/_academic.qmd >}}
 
-**Note**: My name is in **bold**.
+**Note**: My name is in **bold** and * denotes co-first authors.
 
-Total citations as of Nov. 2025 [Google Scholar](https://scholar.google.com/citations?user=J-lruG8AAAAJ&hl=en&oi=ao): 384 citations (h-index = 11; i10-index = 11)
+Total citations as of Dec. 2025 [Google Scholar](https://scholar.google.com/citations?user=J-lruG8AAAAJ&hl=en&oi=ao): 402 citations (h-index = 11; i10-index = 11)
 
 ---
 
 ## Journal Articles
+
+**Renkai Ma**\*, Dominique Geissler\*, Stefan Feuerriegel, Tobias Lauinger, Damon McCoy, and Pamela J. Wisniewski. (2026). [Analyzing Social Media Claims regarding Youth Online Safety Features to Identify Problem Areas and Communication Gaps](https://arxiv.org/abs/2512.14965). *In ACM CSCW '2026*. [[link]](https://arxiv.org/abs/2512.14965)
+
+<center><hr style="width:50%"></center>
 
 Naima Samreen Ali, **Renkai Ma**, Zainab Agha, Jinkyung Katie Park, and Pamela J. Wisniewski. (2025). [Teens as Co-Researchers: Advocating for Disruptive Change to Engage Youth Meaningfully in Online Safety Research and the Design of Social Media](https://doi.org/10.1145/3757665). *In ACM CSCW '2025*. [[doi]](https://doi.org/10.1145/3757665) <span class="__dimensions_badge_embed__" data-doi="10.1145/3757665" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3757665" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
@@ -85,9 +89,22 @@ Yao Li, Yubo Kou, **Renkai Ma**, Yanlai Wu, Guo Freeman, and Bryan Semaan. (2023
 
 ## Preprints
 
-C. Zhu, J. Xiong, **R. Ma**, Z. Lu, Y. Liu, and L. Li. (2025). [When Your Reviewer is an LLM: Biases, Divergence, and Prompt Injection Risks in Peer Review](https://arxiv.org/abs/2509.09912). *arXiv preprint arXiv:2509.09912*.
+Lingyao Li\*, Xiaoshan Huang\*, **Renkai Ma**\*, Ben Zefeng Zhang, Haolun Wu, Fan Yang, and Chen Chen. (2025). [LLM Use for Mental Health: Crowdsourcing Users' Sentiment-based Perspectives and Values from Social Discussions](https://arxiv.org/abs/2512.07797). *arXiv preprint arXiv:2512.07797*.
 
 <center><hr style="width:50%"></center>
 
-L. Li, **R. Ma**, Z. Xue, and J. Xiong. (2025). [Towards Trustworthy AI: Characterizing User-Reported Risks across LLMs "In the Wild"](https://arxiv.org/abs/2509.08912). *arXiv preprint arXiv:2509.08912*.
+Fan Yang, Lingyao Li, Yaxin Hu, Michael Rodgers, and **Renkai Ma**. (2025). [Beyond the Uncanny Valley: A Mixed-Method Investigation of Anthropomorphism in Protective Responses to Robot Abuse](https://arxiv.org/abs/2510.26082). *arXiv preprint arXiv:2510.26082*.
+
+<center><hr style="width:50%"></center>
+
+Fan Yang, **Renkai Ma**, Yaxin Hu, Michael Rodgers, and Lingyao Li. (2025). [I don't Want You to Die: A Shared Responsibility Framework for Safeguarding Child-Robot Companionship](https://arxiv.org/abs/2510.26080). *arXiv preprint arXiv:2510.26080*.
+
+<center><hr style="width:50%"></center>
+
+Changjia Zhu\*, Junjie Xiong\*, **Renkai Ma**, Zhicong Lu, Yao Liu, and Lingyao Li. (2025). [When Your Reviewer is an LLM: Biases, Divergence, and Prompt Injection Risks in Peer Review](https://arxiv.org/abs/2509.09912). *arXiv preprint arXiv:2509.09912*.
+
+<center><hr style="width:50%"></center>
+
+Lingyao Li\*, **Renkai Ma**\*, Zhaoqian Xue, and Junjie Xiong. (2025). [Towards Trustworthy AI: Characterizing User-Reported Risks across LLMs "In the Wild"](https://arxiv.org/abs/2509.08912). *arXiv preprint arXiv:2509.08912*.
+
 

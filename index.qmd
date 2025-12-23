@@ -35,7 +35,7 @@ about:
 
 Hi! I am an Assistant Professor at the University of Cincinnati's [School of Information Technology](https://cech.uc.edu/schools/it.html). I was a postdoctoral scholar at [Vanderbilt University's Department of Computer Science](https://engineering.vanderbilt.edu/departments/computer-science/), advised by [Dr. Pamela J. Wisniewski](https://scholar.google.com/citations?user=3JZB10QAAAAJ&hl=en) in 2025. I completed my Ph.D. in Informatics (Human-Computer Interaction) at Pennsylvania State University's [College of Information Sciences and Technology](https://ist.psu.edu/) in 2024, advised by [Dr. Yubo Kou](https://scholar.google.com/citations?user=mCz8znkAAAAJ&hl=en).
 
-**🔬My research** My research sits at the intersection of online safety and assistive technology. I investigate the practices, policies, and technological implementations required to create secure, inclusive digital environments. As an interdisciplinary scholar, I use a human-centered approach to address two synergistic areas: (1) shielding users from online harms, such as scams and harassment; and (2) designing AI-driven health and assistive solutions that foster wellbeing and vocational independence for at-risk populations like youth.
+**🔬 My research** sits at the intersection of online safety and technology for special needs. I investigate the practices, policies, and technological implementations required to create safe and supportive digital environments. As an interdisciplinary scholar, I use a human-centered approach to address two areas: (1) shielding users from online risks and harms; and (2) designing AI-driven health or assistive solutions that foster wellbeing and vocational independence for at-risk populations like youth.
 
 ::: {.columns}
 
