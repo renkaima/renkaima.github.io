@@ -4,7 +4,7 @@ title: "Service and Leadership"
 
 ## Conference Service
 - **Paper Session Chair**, ACM CSCW '24, San José, Costa Rica
-- **Workshop Lead**, Social Media Moderation Summit 2024, New Jersey Institute of Technology, NJ
+- **Workshop Organizer**, Social Media Moderation Summit 2024, New Jersey Institute of Technology, NJ
 - **Workshop Discussion Facilitator**, Midwest Security Workshop (MSW 11), 2025, Indiana University Bloomington, USA
 - **Student Volunteer**, ACM CSCW '23, Indianapolis, USA
 - **Student Volunteer**, ACM CHI '22, New Orleans, USA
@@ -12,30 +12,37 @@ title: "Service and Leadership"
 ---
 
 ## Professional Reviewing
-*Served as a peer reviewer over 130 times and on 8 conference program committees.*
+*Served as a peer reviewer over **140** times and on **9** conference program committees.*
 
 ### Program Committee Member
-- ACM Conference on Supporting Group Work (GROUP), 2027
-- ACM Conference on Human Factors in Computing Systems (CHI), 2026
-- ACM Conference on Computer-Supported Cooperative Work & Social Computing (CSCW), 2025 (x2), 2026
-- ACM CHI Late-Breaking Work (LBW), 2023, 2024, 2025
+- **ACM GROUP '27**: Paper Track
+- **ACM CHI '26**: Paper Track & Dissertation Research Roundtable
+- **ACM CSCW '26**: Paper Track
+- **ACM CSCW '25**: Paper Track (both July and October cycles)
+- **ACM CHI '25**: Late-Breaking Work (LBW)
+- **ACM CHI '24**: Late-Breaking Work (LBW)
+- **ACM CHI '23**: Late-Breaking Work (LBW)
 
 ### Journal Reviewer
-- Journal of Experimental Child Psychology
-- Telecommunications Policy
-- Information, Communication and Society
+- Journal of Experimental Child Psychology (2025)
+- Telecommunications Policy (2024)
+- Information, Communication and Society (2024)
 
 ### Conference Peer Reviewer
-- ACM CHI (41 reviews), 2022–26
-- ACM CSCW (23 reviews), 2021–26
-- ACM CHI Play (5 reviews), 2022–25
-- ACM Designing Interactive Systems (DIS) (3 reviews), 2023–24
-- Chinese CHI, 2023
-- COMPSAC, 2022
-- HICSS (2 reviews), 2020
+- **ACM CHI** (42 reviews), 2022–26
+- **ACM CSCW** (23 reviews), 2021–26
+- **ACM CHI Play** (5 reviews), 2022–25
+- **ACM IDC** '26
+- **AAAI ICWSM** '26
+- **ACM DIS** (3 reviews), 2023–24
+- **Chinese CHI**, 2023
+- **COMPSAC**, 2022
+- **HICSS** (2 reviews), 2020
 
 ---
 
 ## Awards and Recognitions
-- **Special Recognition for Outstanding Review (x8)**, ACM CHI, 2022–25
+- **Special Recognition for Outstanding Review (x10)**, ACM CHI, 2022–26
 - **Special Recognition for Outstanding Review (x8)**, ACM CSCW, 2021–26
+- **Doctoral Consortium Participant Award**, ACM CSCW, 2023
+- **Doctoral Consortium Participant Award**, ACM CHI, 2023

@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-description','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-description','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-title","listing-description","listing-started","listing-ended","listing-image"],
     };
@@ -165,15 +165,11 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Projects – Renkai Ma">
 <meta property="og:description" content="Selected Projects">
-<meta property="og:image" content="https://renkaima.github.io/files/images/chatbot.png">
+<meta property="og:image" content="https://renkaima.github.io/files/autism.jpg">
 <meta property="og:site_name" content="Renkai Ma">
-<meta property="og:image:height" content="476">
-<meta property="og:image:width" content="984">
 <meta name="twitter:title" content="Projects – Renkai Ma">
 <meta name="twitter:description" content="Selected Projects">
-<meta name="twitter:image" content="https://renkaima.github.io/files/images/chatbot.png">
-<meta name="twitter:image-height" content="476">
-<meta name="twitter:image-width" content="984">
+<meta name="twitter:image" content="https://renkaima.github.io/files/autism.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -251,140 +247,194 @@ window.Quarto = {
 </header>
 
 
-<div id="listing-projects" class="quarto-listing quarto-listing-container-table">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-projects-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-projects'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-title-sort" data-direction="asc">
-        Title
-      </option>
-      <option value="listing-description" data-direction="asc">
-        Description
-      </option>
-      <option value="listing-started" data-direction="asc">
-        Start
-      </option>
-      <option value="listing-ended" data-direction="asc">
-        End
-      </option>
-      <option value="listing-image" data-direction="asc">
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div id="listing-projects" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img loading="lazy" src="./files/autism.jpg" class="thumbnail-image card-img" style="height: 190px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="./projects/autistic.html">AI for Autistic User Independence, Wellbeing, and Self-Regulation</a>
+</h5>
+<div class="card-text listing-description delink">
+<p>Investigating how Large Language Models and AI systems can be designed to support the unique needs of autistic individuals, focusing on enhancing their executive function…</p>
 </div>
-<table class="quarto-listing-table table">
-<thead>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Start
+</td>
+<td class="started">
+2025
+</td>
+</tr>
+
 <tr>
-
-<th>
-<a class="sort" data-sort="listing-image" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;"> </a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-description" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Description</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-started" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Start</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-ended" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">End</a>
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-listing-title-sort="[Youth with AI Companions](projects/ai-companion.qmd)">
 <td>
-<span class="listing-image"><img loading="lazy" src="files/images/chatbot.png" style="height: 40px;"></span>
+End
 </td>
-<td>
-<span class="listing-title"><a href="./projects/ai-companion.html">Youth with AI Companions</a></span>
+<td class="ended">
+Ongoing
 </td>
-<td>
-<span class="listing-description">A project investigating the risks and experiences of youth as they form relationships with AI companion chatbots.</span>
-</td>
-<td>
-<span class="listing-started">2025</span>
-</td>
-<td>
-<span class="listing-ended">Ongoing</span>
-</td>
-
 </tr>
 
-<tr data-index="1" data-listing-title-sort="[Child Safety Meets Creator Moderation](projects/child-safety.qmd)">
-<td>
-<span class="listing-image"><img loading="lazy" src="files/images/project3.png" style="height: 40px;"></span>
-</td>
-<td>
-<span class="listing-title"><a href="./projects/child-safety.html">Child Safety Meets Creator Moderation</a></span>
-</td>
-<td>
-<span class="listing-description">A project I lead to investigate how creators can collaborate with other stakeholders for child safety protection in (creator) moderation context.</span>
-</td>
-<td>
-<span class="listing-started">2023</span>
-</td>
-<td>
-<span class="listing-ended">2025</span>
-</td>
+</tbody></table>
+</div>
+</div>
+</div>
+<div class="g-col-1" data-index="1">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img loading="lazy" src="files/images/chatbot.png" class="thumbnail-image card-img" style="height: 190px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="./projects/ai-companion.html">Youth with AI Companions</a>
+</h5>
+<div class="card-text listing-description delink">
+<p>A project investigating the risks and experiences of youth as they form relationships with AI companion chatbots.</p>
+</div>
+<table class="card-other-values">
 
+<tbody><tr>
+<td>
+Start
+</td>
+<td class="started">
+2025
+</td>
 </tr>
 
-<tr data-index="2" data-listing-title-sort="[Game Community Moderation](projects/game-moderation.qmd)">
+<tr>
 <td>
-<span class="listing-image"><img loading="lazy" src="files/images/project2.png" style="height: 40px;"></span>
+End
 </td>
-<td>
-<span class="listing-title"><a href="./projects/game-moderation.html">Game Community Moderation</a></span>
+<td class="ended">
+Ongoing
 </td>
-<td>
-<span class="listing-description">A project I facilitate with Dr.&nbsp;Yubo Kou to understand how esports gamers experience punishments issued by moderation systems and reason about moderation mechanisms.</span>
-</td>
-<td>
-<span class="listing-started">2023</span>
-</td>
-<td>
-<span class="listing-ended">2024</span>
-</td>
-
 </tr>
 
-<tr data-index="3" data-listing-title-sort="[Creator Moderation](projects/creator-moderation.qmd)">
-<td>
-<span class="listing-image"><img loading="lazy" src="files/images/project1.gif" style="height: 40px;"></span>
-</td>
-<td>
-<span class="listing-title"><a href="./projects/creator-moderation.html">Creator Moderation</a></span>
-</td>
-<td>
-<span class="listing-description">A project I lead to investigate how creators like YouTubers or influencers on Instagram or TikTok experience creator moderation.</span>
-</td>
-<td>
-<span class="listing-started">2020</span>
-</td>
-<td>
-<span class="listing-ended">2024</span>
-</td>
+</tbody></table>
+</div>
+</div>
+</div>
+<div class="g-col-1" data-index="2">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img loading="lazy" src="files/images/project3.png" class="thumbnail-image card-img" style="height: 190px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="./projects/child-safety.html">Child Safety Meets Creator Moderation</a>
+</h5>
+<div class="card-text listing-description delink">
+<p>A project I lead to investigate how creators can collaborate with other stakeholders for child safety protection in (creator) moderation context.</p>
+</div>
+<table class="card-other-values">
 
+<tbody><tr>
+<td>
+Start
+</td>
+<td class="started">
+2023
+</td>
 </tr>
 
-</tbody>
-</table>
+<tr>
+<td>
+End
+</td>
+<td class="ended">
+2025
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+</div>
+<div class="g-col-1" data-index="3">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img loading="lazy" src="files/images/project2.png" class="thumbnail-image card-img" style="height: 190px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="./projects/game-moderation.html">Game Community Moderation</a>
+</h5>
+<div class="card-text listing-description delink">
+<p>A project I facilitate with Dr.&nbsp;Yubo Kou to understand how esports gamers experience punishments issued by moderation systems and reason about moderation mechanisms.</p>
+</div>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Start
+</td>
+<td class="started">
+2023
+</td>
+</tr>
+
+<tr>
+<td>
+End
+</td>
+<td class="ended">
+2024
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+</div>
+<div class="g-col-1" data-index="4">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img loading="lazy" src="files/images/project1.gif" class="thumbnail-image card-img" style="height: 190px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="./projects/creator-moderation.html">Creator Moderation</a>
+</h5>
+<div class="card-text listing-description delink">
+<p>A project I lead to investigate how creators like YouTubers or influencers on Instagram or TikTok experience creator moderation.</p>
+</div>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Start
+</td>
+<td class="started">
+2020
+</td>
+</tr>
+
+<tr>
+<td>
+End
+</td>
+<td class="ended">
+2024
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 <div id="projects">

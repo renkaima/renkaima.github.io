@@ -5,7 +5,9 @@ page-layout: full
 listing: 
 - id: projects
   sort: "started desc"
-  type: table
+  type: grid
+  image-height: 190px  # Increased height
+  grid-columns: 3      # Shows 2 projects per row to make them larger
   fields: [image, title, description, started, ended]
   field-display-names: 
       title: "Title"

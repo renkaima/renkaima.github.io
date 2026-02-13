@@ -7,104 +7,107 @@ description-meta: "Renkai Ma's publications, including journal articles and conf
 
 **Note**: My name is in **bold** and * denotes co-first authors.
 
-Total citations as of Dec. 2025 [Google Scholar](https://scholar.google.com/citations?user=J-lruG8AAAAJ&hl=en&oi=ao): 402 citations (h-index = 11; i10-index = 11)
+Total citations as of Feb. 2026 [Google Scholar](https://scholar.google.com/citations?user=J-lruG8AAAAJ&hl=en&oi=ao): **438** citations (h-index = 11; i10-index = 11)
+
+::: {.column-margin}
+### Publication Glance
+In the field of computer science, top-tier conferences, in addition to journals, are venues for publishing highly selective, double-blind, peer-reviewed, archival publications. Top-tier venues in human-computer interaction research appear at ACM conferences such as CHI and CSCW. They are highly selective and often exceed journals in their selectivity, visibility, and impact. Submissions undergo multiple rounds of review before being accepted for publication.
+:::
 
 ---
 
-## Journal Articles
-
-**Renkai Ma**\*, Dominique Geissler\*, Stefan Feuerriegel, Tobias Lauinger, Damon McCoy, and Pamela J. Wisniewski. (2026). [Analyzing Social Media Claims regarding Youth Online Safety Features to Identify Problem Areas and Communication Gaps](https://arxiv.org/abs/2512.14965). *In ACM CSCW '2026*. [[link]](https://arxiv.org/abs/2512.14965)
-
-<center><hr style="width:50%"></center>
-
-Naima Samreen Ali, **Renkai Ma**, Zainab Agha, Jinkyung Katie Park, and Pamela J. Wisniewski. (2025). [Teens as Co-Researchers: Advocating for Disruptive Change to Engage Youth Meaningfully in Online Safety Research and the Design of Social Media](https://doi.org/10.1145/3757665). *In ACM CSCW '2025*. [[doi]](https://doi.org/10.1145/3757665) <span class="__dimensions_badge_embed__" data-doi="10.1145/3757665" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3757665" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-<center><hr style="width:50%"></center>
-
-Qiurong Song, **Renkai Ma**, Yubo Kou, and Xinning Gui. (2024). [Collective Privacy Sensemaking on Social Media about Period and Fertility Tracking post Roe v. Wade](https://doi.org/10.1145/3641000). *In ACM CSCW '2024*. [[doi]](https://doi.org/10.1145/3641000) <span class="__dimensions_badge_embed__" data-doi="10.1145/3641000" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3641000" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-<center><hr style="width:50%"></center>
-
-**Renkai Ma**, Yue You, Xinning Gui, and Yubo Kou. (2023). [How Do Users Experience Moderation?: A Systematic Literature Review](https://doi.org/10.1145/3610069). *In ACM CSCW '2023*. [[doi]](https://doi.org/10.1145/3610069) <span class="__dimensions_badge_embed__" data-doi="10.1145/3610069" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3610069" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-<center><hr style="width:50%"></center>
-
-**Renkai Ma** and Yubo Kou. (2023). ["Defaulting to boilerplate answers, they didn't engage in a genuine conversation": Dimensions of Transparency Design in Creator Moderation](https://doi.org/10.1145/3579477). *In ACM CSCW '2023*. [[doi]](https://doi.org/10.1145/3579477) <span class="__dimensions_badge_embed__" data-doi="10.1145/3579477" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3579477" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-<center><hr style="width:50%"></center>
-
-**Renkai Ma** and Yubo Kou. (2022). ["I'm not sure what difference is between their content and mine, other than the person itself": A Study of Fairness Perception of Content Moderation on YouTube](https://doi.org/10.1145/3555150). *In ACM CSCW '2022*. [[doi]](https://doi.org/10.1145/3555150) <span class="__dimensions_badge_embed__" data-doi="10.1145/3555150" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3555150" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-<center><hr style="width:50%"></center>
-
-**Renkai Ma**, Xinning Gui, and Yubo Kou. (2022). [Esports Governance: An Analysis of Rule Enforcement in League of Legends](https://doi.org/10.1145/3555541). *In PACM on Human Computer Interaction, CSCW, 2022*. [[doi]](https://doi.org/10.1145/3555541) <span class="__dimensions_badge_embed__" data-doi="10.1145/3555541" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3555541" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-<center><hr style="width:50%"></center>
-
-**Renkai Ma** and Yubo Kou. (2021). ["How advertiser-friendly is my video?": YouTuber's Socioeconomic Interactions with Algorithmic Content Moderation](https://doi.org/10.1145/3479573). *In ACM CSCW '2021*. [[doi]](https://doi.org/10.1145/3479573) <span class="__dimensions_badge_embed__" data-doi="10.1145/3479573" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3479573" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
 ## Conference Proceedings
 
-Jinkyung Katie Park, **Renkai Ma**, Naima Samreen Ali, Naulsberry Jean Baptiste, Zainab Agha, and Pamela J. Wisniewski. (2025). [Teens, Privacy, and Algorithms: Navigating and Co-Designing Solutions for Interpersonal Boundary Management on Social Media](https://doi.org/10.1145/3713043.3728840). *In Interaction Design and Children (ACM IDC ’25)*. [[doi]](https://doi.org/10.1145/3713043.3728840) <span class="__dimensions_badge_embed__" data-doi="10.1145/3713043.3728840" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3713043.3728840" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Renkai Ma**\*, Shuo Niu\*, Lingyao Li, Alex Hirth, Ava Brehm, and Rowajana Behterin Barbie. (2026). [Negotiating Digital Identities with AI Companions: Motivations, Strategies, and Emotional Outcomes](https://doi.org/10.1145/3772318.3791473). *In Proceedings of the 2026 ACM Conference on Human Factors in Computing Systems (CHI '26)*. [[doi]](https://doi.org/10.1145/3772318.3791473) <span class="__dimensions_badge_embed__" data-doi="10.1145/3772318.3791473" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3772318.3791473" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
-**Renkai Ma**, Yao Li, Sunhye Bai, Yubo Kou, and Xinning Gui. (2025). [Weighing Benefits and Harms: Parental Mediation on Social Video Platforms](https://doi.org/10.1145/3706598.3713422). *In ACM CHI '2025*. [[doi]](https://doi.org/10.1145/3706598.3713422) <span class="__dimensions_badge_embed__" data-doi="10.1145/3706598.3713422" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3706598.3713422" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Renkai Ma**, Ashwaq Alsoubai, Jinkyung Katie Park, and Pamela J. Wisniewski. (2026). [From "Fail Fast" to "Mature Safely:" Expert Perspectives as Secondary Stakeholders on Teen-Centered Social Media Risk Detection](https://doi.org/10.1145/3772318.3791498). *In Proceedings of the 2026 ACM Conference on Human Factors in Computing Systems (CHI '26)*. [[doi]](https://doi.org/10.1145/3772318.3791498) <span class="__dimensions_badge_embed__" data-doi="10.1145/3772318.3791498" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3772318.3791498" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
-**Renkai Ma**, Zinan Zhang, Xinning Gui, and Yubo Kou. (2024). [Labeling in the Dark: Exploring Content Creators’ and Consumers’ Experiences with Content Classification for Child Safety on YouTube](https://doi.org/10.1145/3643834.3661565). *In ACM DIS '2024*. [[doi]](https://doi.org/10.1145/3643834.3661565) <span class="__dimensions_badge_embed__" data-doi="10.1145/3643834.3661565" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3643834.3661565" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Lingyao Li\*, **Renkai Ma**\*, Zhaoqian Xue, and Junjie Xiong. (2026). [Characterizing User-Reported Risks across LLM Chatbots](https://doi.org/10.1145/3772318.3791505). *In Proceedings of the 2026 ACM Conference on Human Factors in Computing Systems (CHI '26)*. [[doi]](https://doi.org/10.1145/3772318.3791505) <span class="__dimensions_badge_embed__" data-doi="10.1145/3772318.3791505" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3772318.3791505" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
-Yubo Kou, **Renkai Ma**, Zinan Zhang, Yingfan Zhou, and Xinning Gui. (2024). [Community Begins Where Moderation Ends: Peer Support and Its Implications for Community-Based Rehabilitation](https://doi.org/10.1145/3613904.3642675). *In ACM CHI '2024*. [[doi]](https://doi.org/10.1145/3613904.3642675) <span class="__dimensions_badge_embed__" data-doi="10.1145/3613904.3642675" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3613904.3642675" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Lingyao Li\*, Xiaoshan Huang\*, **Renkai Ma**\*, Ben Zefeng Zhang, Haolun Wu, Fan Yang, and Chen Chen. (2026). [LLM Use for Mental Health: Crowdsourcing Users’ Sentiment-based Perspectives and Values from Social Discussions](https://doi.org/10.1145/3774904.3793025). *In Proceedings of the ACM Web Conference 2026 (WWW '26)*. [[doi]](https://doi.org/10.1145/3774904.3793025) <span class="__dimensions_badge_embed__" data-doi="10.1145/3774904.3793025" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3774904.3793025" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
-**Renkai Ma**, Yao Li, and Yubo Kou. (2023). [Transparency, Fairness, and Coping: How Players Experience Moderation in Multiplayer Online Games](https://doi.org/10.1145/3544548.3581097). *In ACM CHI '2023*. [[doi]](https://doi.org/10.1145/3544548.3581097) <span class="__dimensions_badge_embed__" data-doi="10.1145/3544548.3581097" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3544548.3581097" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Abdulmalik Alluhidan, **Renkai Ma**, Jinkyung Katie Park, Zainab Agha, Zhijun Yin, and Pamela J. Wisniewski. (2026). [Leveraging Affordances as a Lens: A Systematic Review of Social Media Benefits and Risks for Adolescents](https://doi.org/10.1145/3772318.3791092). *In Proceedings of the 2026 ACM Conference on Human Factors in Computing Systems (CHI '26)*. [[doi]](https://doi.org/10.1145/3772318.3791092) <span class="__dimensions_badge_embed__" data-doi="10.1145/3772318.3791092" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3772318.3791092" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
-**Renkai Ma**, Xinning Gui, and Yubo Kou. (2023). [Multi-Platform Content Creation: The Configuration of Creator Ecology through Platform Prioritization, Content Synchronization, and Audience Management](https://doi.org/10.1145/3544548.3581106). *In ACM CHI '2023*. [[doi]](https://doi.org/10.1145/3544548.3581106) <span class="__dimensions_badge_embed__" data-doi="10.1145/3544548.3581106" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3544548.3581106" data-hide-no-mentions="true" class="altmetric-embed"></div>
+Jinkyung Katie Park, **Renkai Ma**, Naima Samreen Ali, Naulsberry Jean Baptiste, Zainab Agha, and Pamela J. Wisniewski. (2025). [Teens, Privacy, and Algorithms: Navigating and Co-Designing Solutions for Interpersonal Boundary Management on Social Media](https://doi.org/10.1145/3713043.3728840). *In Proceedings of the 24th Annual ACM Interaction Design and Children Conference (IDC '25)*. [[doi]](https://doi.org/10.1145/3713043.3728840) <span class="__dimensions_badge_embed__" data-doi="10.1145/3713043.3728840" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3713043.3728840" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
-Yue You, **Renkai Ma**, Xinning Gui. (2022). [User Experience of Symptom Checkers: A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10148318/). *In AMIA Annual Symposium Proceedings*. [[link]](https://pmc.ncbi.nlm.nih.gov/articles/PMC10148318/)
+**Renkai Ma**, Yao Li, Sunhye Bai, Yubo Kou, and Xinning Gui. (2025). [Weighing Benefits and Harms: Parental Mediation on Social Video Platforms](https://doi.org/10.1145/3706598.3713422). *In Proceedings of the 2025 ACM Conference on Human Factors in Computing Systems (CHI '25)*. [[doi]](https://doi.org/10.1145/3706598.3713422) <span class="__dimensions_badge_embed__" data-doi="10.1145/3706598.3713422" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3706598.3713422" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+**Renkai Ma**, Zinan Zhang, Xinning Gui, and Yubo Kou. (2024). [Labeling in the Dark: Exploring Content Creators’ and Consumers’ Experiences with Content Classification for Child Safety on YouTube](https://doi.org/10.1145/3643834.3661565). *In Proceedings of the 2024 ACM Conference on Designing Interactive Systems (DIS '24)*. [[doi]](https://doi.org/10.1145/3643834.3661565) <span class="__dimensions_badge_embed__" data-doi="10.1145/3643834.3661565" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3643834.3661565" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+Yubo Kou, **Renkai Ma**, Zinan Zhang, Yingfan Zhou, and Xinning Gui. (2024). [Community Begins Where Moderation Ends: Peer Support and Its Implications for Community-Based Rehabilitation](https://doi.org/10.1145/3613904.3642675). *In Proceedings of the 2024 ACM Conference on Human Factors in Computing Systems (CHI '24)*. [[doi]](https://doi.org/10.1145/3613904.3642675) <span class="__dimensions_badge_embed__" data-doi="10.1145/3613904.3642675" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3613904.3642675" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+**Renkai Ma**, Yao Li, and Yubo Kou. (2023). [Transparency, Fairness, and Coping: How Players Experience Moderation in Multiplayer Online Games](https://doi.org/10.1145/3544548.3581097). *In Proceedings of the 2023 ACM Conference on Human Factors in Computing Systems (CHI '23)*. [[doi]](https://doi.org/10.1145/3544548.3581097) <span class="__dimensions_badge_embed__" data-doi="10.1145/3544548.3581097" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3544548.3581097" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+**Renkai Ma**, Xinning Gui, and Yubo Kou. (2023). [Multi-Platform Content Creation: The Configuration of Creator Ecology through Platform Prioritization, Content Synchronization, and Audience Management](https://doi.org/10.1145/3544548.3581106). *In Proceedings of the 2023 ACM Conference on Human Factors in Computing Systems (CHI '23)*. [[doi]](https://doi.org/10.1145/3544548.3581106) <span class="__dimensions_badge_embed__" data-doi="10.1145/3544548.3581106" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3544548.3581106" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+Yue You, **Renkai Ma**, Xinning Gui. (2022). [User Experience of Symptom Checkers: A Systematic Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10148318/). *In Proceedings of the 2022 American Medical Informatics Association Annual Symposium (AMIA '22)*. [[link]](https://pmc.ncbi.nlm.nih.gov/articles/PMC10148318/)
+
+## Journal Articles
+
+**Renkai Ma**\*, Dominique Geissler\*, Stefan Feuerriegel, Tobias Lauinger, Damon McCoy, and Pamela J. Wisniewski. (2026). [Analyzing Social Media Claims regarding Youth Online Safety Features to Identify Problem Areas and Communication Gaps](https://doi.org/10.1145/3788041). *In Proceedings of the ACM on Human-Computer Interaction (CSCW)*. [[doi]](https://doi.org/10.1145/3788041) <span class="__dimensions_badge_embed__" data-doi="10.1145/3788041" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3788041" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+Naima Samreen Ali, **Renkai Ma**, Zainab Agha, Jinkyung Katie Park, and Pamela J. Wisniewski. (2025). [Teens as Co-Researchers: Advocating for Disruptive Change to Engage Youth Meaningfully in Online Safety Research and the Design of Social Media](https://doi.org/10.1145/3757665). *In Proceedings of the ACM on Human-Computer Interaction (CSCW)*. [[doi]](https://doi.org/10.1145/3757665) <span class="__dimensions_badge_embed__" data-doi="10.1145/3757665" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3757665" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+Qiurong Song, **Renkai Ma**, Yubo Kou, and Xinning Gui. (2024). [Collective Privacy Sensemaking on Social Media about Period and Fertility Tracking post Roe v. Wade](https://doi.org/10.1145/3641000). *In Proceedings of the ACM on Human-Computer Interaction (CSCW)*. [[doi]](https://doi.org/10.1145/3641000) <span class="__dimensions_badge_embed__" data-doi="10.1145/3641000" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3641000" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+**Renkai Ma**, Yue You, Xinning Gui, and Yubo Kou. (2023). [How Do Users Experience Moderation?: A Systematic Literature Review](https://doi.org/10.1145/3610069). *In Proceedings of the ACM on Human-Computer Interaction (CSCW)*. [[doi]](https://doi.org/10.1145/3610069) <span class="__dimensions_badge_embed__" data-doi="10.1145/3610069" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3610069" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+**Renkai Ma** and Yubo Kou. (2023). ["Defaulting to boilerplate answers, they didn't engage in a genuine conversation": Dimensions of Transparency Design in Creator Moderation](https://doi.org/10.1145/3579477). *In Proceedings of the ACM on Human-Computer Interaction (CSCW)*. [[doi]](https://doi.org/10.1145/3579477) <span class="__dimensions_badge_embed__" data-doi="10.1145/3579477" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3579477" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+**Renkai Ma** and Yubo Kou. (2022). ["I'm not sure what difference is between their content and mine, other than the person itself": A Study of Fairness Perception of Content Moderation on YouTube](https://doi.org/10.1145/3555150). *In Proceedings of the ACM on Human-Computer Interaction (CSCW)*. [[doi]](https://doi.org/10.1145/3555150) <span class="__dimensions_badge_embed__" data-doi="10.1145/3555150" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3555150" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+**Renkai Ma**, Xinning Gui, and Yubo Kou. (2022). [Esports Governance: An Analysis of Rule Enforcement in League of Legends](https://doi.org/10.1145/3555541). *In Proceedings of the ACM on Human-Computer Interaction (CSCW)*. [[doi]](https://doi.org/10.1145/3555541) <span class="__dimensions_badge_embed__" data-doi="10.1145/3555541" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3555541" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+**Renkai Ma** and Yubo Kou. (2021). ["How advertiser-friendly is my video?": YouTuber's Socioeconomic Interactions with Algorithmic Content Moderation](https://doi.org/10.1145/3479573). *In Proceedings of the ACM on Human-Computer Interaction (CSCW)*. [[doi]](https://doi.org/10.1145/3479573) <span class="__dimensions_badge_embed__" data-doi="10.1145/3479573" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3479573" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 ## Other Publications (Workshop, Doctoral Consortium, etc.)
 
-**Renkai Ma**. (2023). [Conceptualizing and Improving Creator Moderation Design with Platform Stakeholders](https://doi.org/10.1145/3584931.3608927). *In Computer Supported Cooperative Work and Social Computing (CSCW Doctoral Consortium)*. [[doi]](https://doi.org/10.1145/3584931.3608927) <span class="__dimensions_badge_embed__" data-doi="10.1145/3584931.3608927" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3584931.3608927" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Renkai Ma**. (2023). [Conceptualizing and Improving Creator Moderation Design with Platform Stakeholders](https://doi.org/10.1145/3584931.3608927). *In Computer Supported Cooperative Work and Social Computing (Doctoral Consortium)*. [[doi]](https://doi.org/10.1145/3584931.3608927) <span class="__dimensions_badge_embed__" data-doi="10.1145/3584931.3608927" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3584931.3608927" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
-**Renkai Ma**. (2023). [Conceptualizing and Rethinking the Design of Cross-platform Creator Moderation](https://doi.org/10.1145/3544549.3577049). *In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (CHI Doctoral Consortium)*. [[doi]](https://doi.org/10.1145/3544549.3577049) <span class="__dimensions_badge_embed__" data-doi="10.1145/3544549.3577049" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3544549.3577049" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Renkai Ma**. (2023). [Conceptualizing and Rethinking the Design of Cross-platform Creator Moderation](https://doi.org/10.1145/3544549.3577049). *In Extended Abstracts of the 2023 ACM Conference on Human Factors in Computing Systems (Doctoral Consortium)*. [[doi]](https://doi.org/10.1145/3544549.3577049) <span class="__dimensions_badge_embed__" data-doi="10.1145/3544549.3577049" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3544549.3577049" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
-**Renkai Ma** and Yubo Kou. (2022). ["I am not a YouTuber who can make whatever video I want. I have to keep appeasing algorithms": Bureaucracy of Creator Moderation on YouTube](https://doi.org/10.1145/3500868.3559445). *In Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing (CSCW '22 Companion)*. [[doi]](https://doi.org/10.1145/3500868.3559445) <span class="__dimensions_badge_embed__" data-doi="10.1145/3500868.3559445" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3500868.3559445" data-hide-no-mentions="true" class="altmetric-embed"></div>
+**Renkai Ma** and Yubo Kou. (2022). ["I am not a YouTuber who can make whatever video I want. I have to keep appeasing algorithms": Bureaucracy of Creator Moderation on YouTube](https://doi.org/10.1145/3500868.3559445). *In Companion Publication of the 2022 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW '22 Companion)*. [[doi]](https://doi.org/10.1145/3500868.3559445) <span class="__dimensions_badge_embed__" data-doi="10.1145/3500868.3559445" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3500868.3559445" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
 
-Yao Li, Yubo Kou, **Renkai Ma**, Yanlai Wu, Guo Freeman, and Bryan Semaan. (2023). [Multi-Stakeholder Privacy and Safety on Content Creation Platforms](https://doi.org/10.1145/3563703.3591461). *In Designing Interactive Systems Conference (DIS Companion '23)*. [[doi]](https://doi.org/10.1145/3563703.3591461) <span class="__dimensions_badge_embed__" data-doi="10.1145/3563703.3591461" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3563703.3591461" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-## Preprints
-
-Lingyao Li\*, Xiaoshan Huang\*, **Renkai Ma**\*, Ben Zefeng Zhang, Haolun Wu, Fan Yang, and Chen Chen. (2025). [LLM Use for Mental Health: Crowdsourcing Users' Sentiment-based Perspectives and Values from Social Discussions](https://arxiv.org/abs/2512.07797). *arXiv preprint arXiv:2512.07797*.
-
-<center><hr style="width:50%"></center>
-
-Fan Yang, Lingyao Li, Yaxin Hu, Michael Rodgers, and **Renkai Ma**. (2025). [Beyond the Uncanny Valley: A Mixed-Method Investigation of Anthropomorphism in Protective Responses to Robot Abuse](https://arxiv.org/abs/2510.26082). *arXiv preprint arXiv:2510.26082*.
-
-<center><hr style="width:50%"></center>
-
-Fan Yang, **Renkai Ma**, Yaxin Hu, Michael Rodgers, and Lingyao Li. (2025). [I don't Want You to Die: A Shared Responsibility Framework for Safeguarding Child-Robot Companionship](https://arxiv.org/abs/2510.26080). *arXiv preprint arXiv:2510.26080*.
-
-<center><hr style="width:50%"></center>
-
-Changjia Zhu\*, Junjie Xiong\*, **Renkai Ma**, Zhicong Lu, Yao Liu, and Lingyao Li. (2025). [When Your Reviewer is an LLM: Biases, Divergence, and Prompt Injection Risks in Peer Review](https://arxiv.org/abs/2509.09912). *arXiv preprint arXiv:2509.09912*.
-
-<center><hr style="width:50%"></center>
-
-Lingyao Li\*, **Renkai Ma**\*, Zhaoqian Xue, and Junjie Xiong. (2025). [Towards Trustworthy AI: Characterizing User-Reported Risks across LLMs "In the Wild"](https://arxiv.org/abs/2509.08912). *arXiv preprint arXiv:2509.08912*.
-
-
+Yao Li, Yubo Kou, **Renkai Ma**, Yanlai Wu, Guo Freeman, and Bryan Semaan. (2023). [Multi-Stakeholder Privacy and Safety on Content Creation Platforms](https://doi.org/10.1145/3563703.3591461). *In Companion Publication of the 2023 ACM Conference on Designing Interactive Systems (DIS '23)*. [[doi]](https://doi.org/10.1145/3563703.3591461) <span class="__dimensions_badge_embed__" data-doi="10.1145/3563703.3591461" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3563703.3591461" data-hide-no-mentions="true" class="altmetric-embed"></div>

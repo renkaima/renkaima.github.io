@@ -1,0 +1,26 @@
+---
+title: "AI for Autistic User Independence, Wellbeing, and Self-Regulation"
+author: "Renkai Ma"
+date: "2026-02-12"
+description: "Investigating how Large Language Models and AI systems can be designed to support the unique needs of autistic individuals."
+image: "../files/autism.jpg"
+categories: [Neurodiversity, Executive Function, Generative AI, Inclusion]
+---
+
+## Background
+Currently, the US workforce integration of neurodivergent talent remains a societal challenge. This population, specifically individuals with autism spectrum conditions and ADHD, often faces neurodevelopmental constraints related to executive function (EF) and self-regulation (SR). While intellectually capable, these individuals may experience deficits in working memory, set-shifting, and inhibitory control. 
+
+This vulnerability peaks during the **"Services Cliff" (ages 15–26)**, where the cessation of mandated transition planning often leads to high postsecondary disconnection. My work explores how AI can bridge this gap by providing autonomous, real-time support in technical workplace environments.
+
+## Research Aim & Methods
+To address the neurodivergent unemployment crisis, this project focuses on mapping workplace ambiguity and points of friction through a multi-stakeholder qualitative approach:
+
+* **Stakeholder Interviews**: Engaging neurodivergent employees and supervisors to identify where sociotechnical dynamics break down.
+* **Speculative Design**: Utilizing Generative AI tools during sessions to co-ideate future technology supports with participants.
+* **Cognitive Scaffolding**: Analyzing how LLMs help users offload executive dysfunction and regulate emotions.
+
+## Initial Findings
+In my study on autistic users' engagement with ChatGPT, we applied the **Technology Affordance framework** to analyze LLMs as cognitive scaffolding. While these tools provide significant support, they also introduce risks:
+
+1.  **Reinforcing Delusional Thinking**: Bots may inadvertently validate non-factual beliefs.
+2.  **Automated Masking**: By outsourcing communication to conform to neurotypical norms, users risk erasing their authentic identities.

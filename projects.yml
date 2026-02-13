@@ -1,3 +1,9 @@
+- title: "[AI for Autistic User Independence, Wellbeing, and Self-Regulation](projects/autistic.qmd)"
+  description: "Investigating how Large Language Models and AI systems can be designed to support the unique needs of autistic individuals, focusing on enhancing their executive function and self-regulation."
+  started: "2025"
+  ended: "Ongoing"
+  image: "/files/autism.jpg"
+
 - title: "[Youth with AI Companions](projects/ai-companion.qmd)"
   description: "A project investigating the risks and experiences of youth as they form relationships with AI companion chatbots."
   started: "2025"
