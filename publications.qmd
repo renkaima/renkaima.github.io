@@ -7,7 +7,7 @@ description-meta: "Renkai Ma's publications, including journal articles and conf
 
 **Note**: My name is in **bold** and * denotes co-first authors.
 
-Total citations as of Feb. 2026 [Google Scholar](https://scholar.google.com/citations?user=J-lruG8AAAAJ&hl=en&oi=ao): **438** citations (h-index = 11; i10-index = 11)
+Total citations as of July 2026 [Google Scholar](https://scholar.google.com/citations?user=J-lruG8AAAAJ&hl=en&oi=ao): **653** citations (h-index = 13; i10-index = 15)
 
 ::: {.column-margin}
 ### Publication Glance
@@ -17,6 +17,10 @@ In the field of computer science, top-tier conferences, in addition to journals,
 ---
 
 ## Conference Proceedings
+
+Hansinie Madushika Jayathilake and **Renkai Ma**. (2026). [Anthropomorphism in Children's Interactions with LLM-Based Chatbots: A Systematic Review of Drivers and Outcomes](https://doi.org/10.1145/3773077.3806126). *In Proceedings of the 25th Annual ACM Interaction Design and Children Conference (IDC '26)*. [[doi]](https://doi.org/10.1145/3773077.3806126) <span class="__dimensions_badge_embed__" data-doi="10.1145/3773077.3806126" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3773077.3806126" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
 
 **Renkai Ma**\*, Shuo Niu\*, Lingyao Li, Alex Hirth, Ava Brehm, and Rowajana Behterin Barbie. (2026). [Negotiating Digital Identities with AI Companions: Motivations, Strategies, and Emotional Outcomes](https://doi.org/10.1145/3772318.3791473). *In Proceedings of the 2026 ACM Conference on Human Factors in Computing Systems (CHI '26)*. [[doi]](https://doi.org/10.1145/3772318.3791473) <span class="__dimensions_badge_embed__" data-doi="10.1145/3772318.3791473" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3772318.3791473" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
@@ -35,6 +39,10 @@ Lingyao Li\*, Xiaoshan Huang\*, **Renkai Ma**\*, Ben Zefeng Zhang, Haolun Wu, Fa
 <center><hr style="width:50%"></center>
 
 Abdulmalik Alluhidan, **Renkai Ma**, Jinkyung Katie Park, Zainab Agha, Zhijun Yin, and Pamela J. Wisniewski. (2026). [Leveraging Affordances as a Lens: A Systematic Review of Social Media Benefits and Risks for Adolescents](https://doi.org/10.1145/3772318.3791092). *In Proceedings of the 2026 ACM Conference on Human Factors in Computing Systems (CHI '26)*. [[doi]](https://doi.org/10.1145/3772318.3791092) <span class="__dimensions_badge_embed__" data-doi="10.1145/3772318.3791092" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3772318.3791092" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
+**Renkai Ma**, Ben Zefeng Zhang, Chen Chen, Fan Yang, Xiaoshan Huang, Haolun Wu, and Lingyao Li. (2026). ["I Use ChatGPT to Humanize My Words": Affordances and Risks of ChatGPT to Autistic Users](https://arxiv.org/abs/2601.17946). *In Interactive Health Conference (IH '26)*. [[arXiv]](https://arxiv.org/abs/2601.17946)
 
 <center><hr style="width:50%"></center>
 
@@ -98,6 +106,10 @@ Qiurong Song, **Renkai Ma**, Yubo Kou, and Xinning Gui. (2024). [Collective Priv
 
 ## Other Publications (Workshop, Doctoral Consortium, etc.)
 
+Shaoze Zhou, Diana Nelly Rivera Rodriguez, Pedro Remior, Joaquin Frangi, Lingyao Li, **Renkai Ma**, Janet G. Johnson, Christine Lisetti, and Chen Chen. (2026). [Exploring Needs and Design Opportunities for Proactive Information Support in In-Person Small-Group Conversations](https://doi.org/10.1145/3772363.3799279). *In Extended Abstracts of the 2026 ACM Conference on Human Factors in Computing Systems (CHI EA '26)*. [[doi]](https://doi.org/10.1145/3772363.3799279) <span class="__dimensions_badge_embed__" data-doi="10.1145/3772363.3799279" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3772363.3799279" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<center><hr style="width:50%"></center>
+
 **Renkai Ma**. (2023). [Conceptualizing and Improving Creator Moderation Design with Platform Stakeholders](https://doi.org/10.1145/3584931.3608927). *In Computer Supported Cooperative Work and Social Computing (Doctoral Consortium)*. [[doi]](https://doi.org/10.1145/3584931.3608927) <span class="__dimensions_badge_embed__" data-doi="10.1145/3584931.3608927" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3584931.3608927" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 <center><hr style="width:50%"></center>
@@ -111,3 +123,31 @@ Qiurong Song, **Renkai Ma**, Yubo Kou, and Xinning Gui. (2024). [Collective Priv
 <center><hr style="width:50%"></center>
 
 Yao Li, Yubo Kou, **Renkai Ma**, Yanlai Wu, Guo Freeman, and Bryan Semaan. (2023). [Multi-Stakeholder Privacy and Safety on Content Creation Platforms](https://doi.org/10.1145/3563703.3591461). *In Companion Publication of the 2023 ACM Conference on Designing Interactive Systems (DIS '23)*. [[doi]](https://doi.org/10.1145/3563703.3591461) <span class="__dimensions_badge_embed__" data-doi="10.1145/3563703.3591461" data-style="large_rectangle"></span> <div data-badge-popover="right" data-badge-type="1" data-doi="10.1145/3563703.3591461" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+## Preprints
+
+Lingyao Li, Deyi Li, Chen Chen, **Renkai Ma**, Runlong Yu, Mingquan Lin, Rui Yin, Lizhou Fan, Cathy Shyr, Siyuan Ma, Mei Liu, and Steven Bethard. (2026). [LLM-as-a-Judge in Healthcare: A Scoping Analysis of Applications, Methods, and Human Alignment](https://arxiv.org/abs/2605.25273). *arXiv preprint arXiv:2605.25273*. [[arXiv]](https://arxiv.org/abs/2605.25273)
+
+<center><hr style="width:50%"></center>
+
+Lingyao Li, Junjie Xiong, Changjia Zhu, Runlong Yu, Chen Chen, Junyu Wang, **Renkai Ma**, and Zhicong Lu. (2026). [LLM-as-a-Reviewer: Benchmarking Their Ability, Divergence, and Prompt Injection Resistance as Paper Reviewers](https://arxiv.org/abs/2605.25415). *arXiv preprint arXiv:2605.25415*. [[arXiv]](https://arxiv.org/abs/2605.25415)
+
+<center><hr style="width:50%"></center>
+
+Lingyao Li, **Renkai Ma**, Chen Chen, Zhicong Lu, and Yongfeng Zhang. (2026). [The Rise of AI Agent Communities: Large-Scale Analysis of Discourse and Interaction on Moltbook](https://arxiv.org/abs/2602.12634). *arXiv preprint arXiv:2602.12634*. [[arXiv]](https://arxiv.org/abs/2602.12634)
+
+<center><hr style="width:50%"></center>
+
+Fan Yang, **Renkai Ma**, Yaxin Hu, and Lingyao Li. (2026). [Whether We Care, How We Reason: The Dual Role of Anthropomorphism and Moral Foundations in Robot Abuse](https://arxiv.org/abs/2601.19826). *arXiv preprint arXiv:2601.19826*. [[arXiv]](https://arxiv.org/abs/2601.19826)
+
+<center><hr style="width:50%"></center>
+
+Fan Yang, Lingyao Li, Yaxin Hu, Michael Rodgers, and **Renkai Ma**. (2025). [Beyond the Uncanny Valley: A Mixed-Method Investigation of Anthropomorphism in Protective Responses to Robot Abuse](https://arxiv.org/abs/2510.26082). *arXiv preprint arXiv:2510.26082*. [[arXiv]](https://arxiv.org/abs/2510.26082)
+
+<center><hr style="width:50%"></center>
+
+Fan Yang, **Renkai Ma**, Yaxin Hu, Michael Rodgers, and Lingyao Li. (2025). [I Don't Want You to Die: A Shared Responsibility Framework for Safeguarding Child-Robot Companionship](https://arxiv.org/abs/2510.26080). *arXiv preprint arXiv:2510.26080*. [[arXiv]](https://arxiv.org/abs/2510.26080)
+
+<center><hr style="width:50%"></center>
+
+Changjia Zhu, Junjie Xiong, **Renkai Ma**, Zhicong Lu, Yihan Liu, and Lingyao Li. (2025). [When Your Reviewer Is an LLM: Biases, Divergence, and Prompt Injection Risks in Peer Review](https://arxiv.org/abs/2509.09912). *arXiv preprint arXiv:2509.09912*. [[arXiv]](https://arxiv.org/abs/2509.09912)
