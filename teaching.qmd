@@ -8,15 +8,19 @@ title-block-banner: false
 
 ### Instructor
 
-**IT7030C: Games for Learning and Simulation**
+**IT4080C: Network Game Development**
 
-*Instructor, Fall 2025 (10 students)*
+*Instructor, Spring 2026 (9 students); Fall 2025 (17 students)*
+
+> **Spring 2026 teaching evaluation:** 4.62/5 instructor-based mean and 8.67/10 teaching effectiveness (6 responses).
+>
+> "Instructor made sure everybody got help and he made an effort to talk to everyone one-on-one."
 
 ---
 
-**IT4080C: Network Game Development**
+**IT7030C: Games for Learning and Simulation**
 
-*Instructor, Fall 2025 (17 students)*
+*Instructor, Fall 2025 (10 students)*
 
 ---
 
