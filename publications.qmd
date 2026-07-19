@@ -7,7 +7,7 @@ description-meta: "Renkai Ma's publications, including journal articles and conf
 
 **Note**: My name is in **bold** and * denotes co-first authors.
 
-Total citations as of July 2026 [Google Scholar](https://scholar.google.com/citations?user=J-lruG8AAAAJ&hl=en&oi=ao): **653** citations (h-index = 13; i10-index = 15)
+Total citations as of July 19, 2026 [Google Scholar](https://scholar.google.com/citations?user=J-lruG8AAAAJ&hl=en&oi=ao): **662** citations (h-index = 13; i10-index = 17)
 
 ::: {.column-margin}
 ### Publication Glance

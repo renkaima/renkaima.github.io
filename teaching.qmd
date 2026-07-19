@@ -12,7 +12,7 @@ title-block-banner: false
 
 *Instructor, Spring 2026 (9 students); Fall 2025 (17 students)*
 
-> **Spring 2026 teaching evaluation:** 4.62/5 instructor-based mean and 8.67/10 teaching effectiveness (6 responses).
+> **Spring 2026 teaching evaluation:** 4.62/5 instructor-based mean and 8.67/10 teaching effectiveness.
 >
 > "Instructor made sure everybody got help and he made an effort to talk to everyone one-on-one."
 
