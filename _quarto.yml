@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME  # keep the custom domain file in docs/ on every render
 
 # Meta
 description-meta: "Renkai Ma's personal academic website"
@@ -78,11 +80,8 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://renkaima.github.io"
+  site-url: "https://renkaima.xyz"
   
-  google-analytics:
-    tracking-id: ""
-    anonymize-ip: true 
 
 bibliography: references.bib
 
@@ -99,5 +98,5 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     # IMPORTANT: Changed this filter to your own site URL
-    link-external-filter: '^(?:http:|https:)\/\/renkaima\.github\.io'
+    link-external-filter: '^(?:http:|https:)\/\/(?:www\.)?renkaima\.xyz'
     include-in-header: "files/includes/_academic.qmd"

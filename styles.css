@@ -1,1 +1,8 @@
 /* css styles */
+
+/* Acceptance-rate tag after each peer-reviewed paper (figures mirror the CV) */
+.arate {
+  color: #2C5777;
+  font-size: 0.85em;
+  white-space: nowrap;
+}

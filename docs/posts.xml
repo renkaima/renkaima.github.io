@@ -6,30 +6,30 @@
       version="2.0">
 <channel>
 <title>Renkai Ma</title>
-<link>https://renkaima.github.io/posts.html</link>
-<atom:link href="https://renkaima.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<link>https://renkaima.xyz/posts.html</link>
+<atom:link href="https://renkaima.xyz/posts.xml" rel="self" type="application/rss+xml"/>
 <description>Renkai Ma&#39;s website</description>
-<generator>quarto-1.8.26</generator>
+<generator>quarto-1.8.25</generator>
 <lastBuildDate>Tue, 15 Oct 2024 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://renkaima.github.io/</link>
+  <link>https://renkaima.xyz/</link>
   <description>Examples and tips for Quarto Academic Website</description>
   <category>news</category>
-  <guid>https://renkaima.github.io/</guid>
+  <guid>https://renkaima.xyz/</guid>
   <pubDate>Tue, 15 Oct 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://renkaima.github.io/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://renkaima.xyz/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Event item</title>
   <dc:creator>Event </dc:creator>
-  <link>https://renkaima.github.io/posts/event-title/</link>
+  <link>https://renkaima.xyz/posts/event-title/</link>
   <description><![CDATA[ 
 
 
 
 
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://renkaima.github.io/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
+<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://renkaima.xyz/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -46,14 +46,14 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>event</category>
   <category>presentation</category>
-  <guid>https://renkaima.github.io/posts/event-title/</guid>
+  <guid>https://renkaima.xyz/posts/event-title/</guid>
   <pubDate>Tue, 03 Sep 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://renkaima.github.io/files/images/placeholder2.JPG" medium="image"/>
+  <media:content url="https://renkaima.xyz/files/images/placeholder2.JPG" medium="image"/>
 </item>
 <item>
   <title>News item</title>
   <dc:creator>News </dc:creator>
-  <link>https://renkaima.github.io/posts/news-title/</link>
+  <link>https://renkaima.xyz/posts/news-title/</link>
   <description><![CDATA[ 
 
 
@@ -78,16 +78,16 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
-  <guid>https://renkaima.github.io/posts/news-title/</guid>
+  <guid>https://renkaima.xyz/posts/news-title/</guid>
   <pubDate>Mon, 24 Jun 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://renkaima.github.io/files/images/placeholder3.JPG" medium="image"/>
+  <media:content url="https://renkaima.xyz/files/images/placeholder3.JPG" medium="image"/>
 </item>
 <item>
   <title>Can quantum-mechanical description of physical reality be considered complete?</title>
   <dc:creator>Albert Einstein</dc:creator>
   <dc:creator>Boris Podolsky</dc:creator>
   <dc:creator>Nathan Rosen</dc:creator>
-  <link>https://renkaima.github.io/posts/paper-title/</link>
+  <link>https://renkaima.xyz/posts/paper-title/</link>
   <description><![CDATA[ 
 
 
@@ -98,7 +98,6 @@ https://quarto.org/docs/authoring/includes.html
 Load Academicons v1: https://jpswalsh.github.io/academicons/
 -->
 <p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
-<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
 <!---
 The following code are needed to show dimension citation and altmetrics.
 https://api.altmetric.com/embeds.html
@@ -106,7 +105,7 @@ https://badge.dimensions.ai/
 --->
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 <script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<script type="text/javascript" src="https://cdn.plu.mx/widget-popup.js"></script>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
 <p>In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
@@ -140,9 +139,9 @@ Quantum-Mechanical Description of Physical Reality Be Considered
 Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
-  <guid>https://renkaima.github.io/posts/paper-title/</guid>
+  <guid>https://renkaima.xyz/posts/paper-title/</guid>
   <pubDate>Wed, 15 May 1935 04:00:00 GMT</pubDate>
-  <media:content url="https://renkaima.github.io/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://renkaima.xyz/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
